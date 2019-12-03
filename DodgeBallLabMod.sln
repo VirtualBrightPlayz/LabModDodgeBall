@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DodgeBallLabMod", "DodgeBallLabMod\DodgeBallLabMod.csproj", "{8C01DBEE-C555-4BC4-8FAA-BBAE96249F25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C01DBEE-C555-4BC4-8FAA-BBAE96249F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C01DBEE-C555-4BC4-8FAA-BBAE96249F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C01DBEE-C555-4BC4-8FAA-BBAE96249F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C01DBEE-C555-4BC4-8FAA-BBAE96249F25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29FE3025-1094-42A4-8B09-03C7D0768CAE}
+	EndGlobalSection
+EndGlobal
